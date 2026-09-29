@@ -1,0 +1,14 @@
+# IDEA配置
+.idea/
+*.iml
+
+# Java编译文件
+*.class
+
+# 编译输出
+out/
+target/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
